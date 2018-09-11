@@ -1,0 +1,205 @@
+.logo_1 {
+  position:fixed;
+  top: 12px;
+  left: 15px;
+}
+
+.logo_2 {
+  position: fixed;
+  bottom: 30px;
+  right: 290px;
+}
+
+.logo_3 {
+  position: fixed;
+  bottom: 30px;
+  right: 35px;
+}
+
+.logo_4 {
+  position: fixed;
+  bottom: 110px;
+  right: 160px;
+  font-family: 'Yu Gothic';
+  font-weight: bold;
+  font-size: 16px;
+}
+
+body {
+  text-align: center;
+}
+
+.second_page {
+  background-color: #FFF8EA;
+  width: 1250px;
+  height: 1100px;
+  margin: 30px 40px;
+}
+
+.text_1 {
+  padding-top: 50px;
+  font-size: 34px;
+  font-family: 'Yu Gothic';
+  font-weight: bold;
+  letter-spacing: 6px;
+}
+
+span {
+  border-bottom: solid 4px #ffcf07;
+}
+
+.text_2 {
+  padding-top: 30px;
+  font-family: 'Yu Gothic';
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  line-height: 22px;
+}
+
+.text_3 {
+  padding-top: 30px;
+  font-family: 'Yu Gothic';
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
+
+.boxes {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  background-color: #FFF;
+  width:320px;
+  height: 320px;
+  margin-left: 20px;
+  font-family: 'Yu Gothic';
+}
+
+.box img {
+  padding-top: 30px;
+  width: 80px;
+  height: 80px;
+}
+
+.box_1 {
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 18px;
+  padding-bottom: 1px;
+}
+
+.box_2 {
+  font-size: 14px;
+  font-weight: 450;
+  line-height: 8px;
+}
+
+.box span {
+  border-bottom: solid 4px #ffcf07;
+}
+
+.attention {
+  padding-top: 30px;
+  font-size: 10px;
+  font-family: 'Yu Gothic';
+  line-height: 10px;
+}
+
+.third_page {
+  background-color: #FFF8EA;
+  width: 1250px;
+  height: 1000px;
+  margin: 30px 40px;
+}
+
+.text_4 {
+  padding-top: 50px;
+  font-size: 34px;
+  font-family: 'Yu Gothic';
+  font-weight: bold;
+  letter-spacing: 4px;
+}
+
+.text_5 {
+  margin-top: 40px;
+  font-family: 'Yu Gothic';
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.fourth_page {
+  background-color: #FFF8EA;
+  width: 1250px;
+  height: 550px;
+  margin: 30px 40px;
+}
+
+.text_6 {
+  padding-top: 50px;
+  font-family: 'Amiko';
+  font-size: 40px;
+  color: #FFCF07;
+  font-weight: bold;
+  letter-spacing: 7px;
+}
+
+.text_7 {
+  font-family: 'Yu Gothic';
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
+
+.products {
+  padding-top: 30px;
+  display: flex;
+}
+
+.product {
+  padding-left: 0px;
+}
+
+.product p {
+  background-color: #FFF;
+  width: 50%;
+  margin-left: 25%;
+  font-weight: bold;
+  font-family: 'Amiko';
+}
+
+.product img {
+  border-radius: 50%;
+  width: 50%;
+}
+
+.footer {
+  width: 1280px;
+  height: 450px;
+  margin: 30px 40px;
+}
+
+.footer-list {
+  text-decoration: none;
+  padding-top: 40px;
+  font-size: 14px
+}
+
+.footer-list a {
+  text-align: center;
+  text-decoration: none;
+  color: #000;
+  padding-left: 20px;
+  font-family: 'Yu Gothic';
+}
+
+.footer-list a:hover {
+  color: #000;
+  text-decoration: underline;
+}
